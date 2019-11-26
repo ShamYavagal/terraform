@@ -1,3 +1,4 @@
+#Configure VPC Route
 variable "subnet" {
   type        = "string"
   description = "Subnet Can Be Entered Using terraform apply -var=subnet=x.x.x.x/x"
